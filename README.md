@@ -18,5 +18,7 @@ gerenciamento do estado da conversa.
 4. **Resposta da IA:** API do OpenAI
 5. **Exibição:** st.chat_message
 """
+---
+
 ![Imagem da Tela IA](png/imagens/tela1.PNG)
 
