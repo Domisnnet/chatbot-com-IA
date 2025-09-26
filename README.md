@@ -20,4 +20,4 @@ gerenciamento do estado da conversa.
 """
 ---
 
-![Imagem da Tela IA](png/imagens/tela1.PNG)
+![Imagem da Tela IA](./assets/png/imagens/tela1.PNG)
